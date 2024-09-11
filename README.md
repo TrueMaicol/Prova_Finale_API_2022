@@ -6,6 +6,4 @@ During the game you have the possibility to see the words you still have as your
 
 The difficultness of the test comes with the fact that the the program was going to be tested with a dictionary of words which size was enormous, in the order of milions of words of at least a dozen characters (each word has the same size, which is declared to the program in the first input), and the game had time and memory size restrictions.
 
-I know there are other solutions to the problem and maybe mine is not what you think would be the best but for me it worked.
-
 FINAL RESULT: 30/30.
